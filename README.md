@@ -2,6 +2,6 @@
 
 This is a Python script to declutter your workspace.
 
-## Sample
+## Work Sample
 
 ![](sample.gif)
